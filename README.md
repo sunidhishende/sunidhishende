@@ -1,5 +1,5 @@
 
-<h2 align="center"><samp> Hi there ✌️  Welcome to my Github! I'm Sunidhi and I like to code! </samp></h4>
+<h2 align="center"><samp> Hey, there ✌️ Welcome to my GitHub! I'm Sunidhi, and I like to code! </samp></h4>
 
 <h3 align="center"><samp> Indulge in the collective illusion that this is a very cool readme </samp></h4>
 
